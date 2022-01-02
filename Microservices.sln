@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servicios.api.Libreria", "Servicios.api.Libreria\Servicios.api.Libreria.csproj", "{D9809FD3-1B93-4419-BFAE-6CB72B29F4FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servicios.api.Seguridad", "Servicios.api.Seguridad\Servicios.api.Seguridad.csproj", "{AFAF8622-6C00-4334-9223-305100345BEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9809FD3-1B93-4419-BFAE-6CB72B29F4FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9809FD3-1B93-4419-BFAE-6CB72B29F4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9809FD3-1B93-4419-BFAE-6CB72B29F4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9809FD3-1B93-4419-BFAE-6CB72B29F4FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFAF8622-6C00-4334-9223-305100345BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAF8622-6C00-4334-9223-305100345BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAF8622-6C00-4334-9223-305100345BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAF8622-6C00-4334-9223-305100345BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {814A8B18-2B9A-401D-8F46-65059BC56BB5}
+	EndGlobalSection
+EndGlobal
